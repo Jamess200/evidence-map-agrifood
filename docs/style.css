@@ -1,0 +1,14 @@
+:root { --accent:#1F5FCC; --text:#222; --muted:#666; --bg:#fff; --card:#f6f8fb; }
+* { box-sizing:border-box; }
+body { margin:0; font-family: system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif; color:var(--text); background:var(--bg);}
+.container { max-width: 960px; margin: 2rem auto; padding: 0 1rem; }
+header h1 { margin:0 0 .25rem 0; }
+.tagline { color:var(--muted); margin:.25rem 0 1rem; }
+.cards { display:grid; gap:1rem; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); margin: 1.5rem 0; }
+.card { display:block; padding:1rem; background:var(--card); border-radius:12px; text-decoration:none; color:inherit; border:1px solid #e5e7eb; }
+.card:hover { border-color:var(--accent); box-shadow:0 2px 12px rgba(0,0,0,.06); }
+.card h2 { margin:.25rem 0 .25rem; font-size:1.1rem; }
+.card p { margin:0; color:var(--muted); }
+.about code { background:#fff1; padding:0 .25rem; border:1px solid #eee; border-radius:4px; }
+footer { margin:2rem 0 0; color:var(--muted); }
+footer a { color:var(--accent); }
