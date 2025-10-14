@@ -1,0 +1,46 @@
+raw,normalized_lower,exact_match_ci,alias_used,fuzzy_candidate,fuzzy_score,chosen,method
+Albania,albania,Albania,,Albania,0.857,Albania,exact
+Algeria,algeria,Algeria,,Algeria,0.857,Algeria,exact
+Austria,austria,Austria,,Austria,0.857,Austria,exact
+Belgium,belgium,Belgium,,Belgium,0.857,Belgium,exact
+Bosnia and Herzegovina,bosnia and herzegovina,Bosnia and Herzegovina,,Bosnia and Herzegovina,0.909,Bosnia and Herzegovina,exact
+Bulgaria,bulgaria,Bulgaria,,Bulgaria,0.875,Bulgaria,exact
+Croatia,croatia,Croatia,,Croatia,0.857,Croatia,exact
+Cyprus,cyprus,Cyprus,,Cyprus,0.833,Cyprus,exact
+Czechia,czechia,Czechia,,Czechia,0.857,Czechia,exact
+Egypt,egypt,Egypt,,Egypt,0.8,Egypt,exact
+Estonia,estonia,Estonia,,Estonia,0.857,Estonia,exact
+European Commission and EU Agencies,european commission and eu agencies,,,São Tomé and Principe,0.464,,none
+European RTD Organisations,european rtd organisations,,,Turkmenistan,0.421,,none
+Finland,finland,Finland,,Finland,0.857,Finland,exact
+France,france,France,,France,0.833,France,exact
+Georgia,georgia,Georgia,,Georgia,0.857,Georgia,exact
+Germany,germany,Germany,,Germany,0.857,Germany,exact
+Greece,greece,Greece,,Greece,0.833,Greece,exact
+Hungary,hungary,Hungary,,Hungary,0.857,Hungary,exact
+Iceland,iceland,Iceland,,Iceland,0.857,Iceland,exact
+Ireland,ireland,Ireland,,Ireland,0.857,Ireland,exact
+Israel,israel,Israel,,Israel,0.833,Israel,exact
+Italy,italy,Italy,,Italy,0.8,Italy,exact
+Jordan,jordan,Jordan,,Jordan,0.833,Jordan,exact
+Kosovo,kosovo,Kosovo,Kosovo,Kosovo,0.833,Kosovo,exact
+Lithuania,lithuania,Lithuania,,Lithuania,0.889,Lithuania,exact
+Moldova,moldova,Moldova,,Moldova,0.857,Moldova,exact
+Montenegro,montenegro,Montenegro,,Montenegro,0.9,Montenegro,exact
+Morocco,morocco,Morocco,,Morocco,0.857,Morocco,exact
+Nigeria,nigeria,Nigeria,,Nigeria,0.857,Nigeria,exact
+North Macedonia,north macedonia,North Macedonia,,North Macedonia,0.867,North Macedonia,exact
+Norway,norway,Norway,,Norway,0.833,Norway,exact
+Poland,poland,Poland,,Poland,0.833,Poland,exact
+Portugal,portugal,Portugal,,Portugal,0.875,Portugal,exact
+Romania,romania,Romania,,Romania,0.857,Romania,exact
+Serbia,serbia,,Republic of Serbia,Nigeria,0.615,Republic of Serbia,alias
+Slovakia,slovakia,Slovakia,,Slovakia,0.875,Slovakia,exact
+South Africa,south africa,South Africa,,South Africa,0.833,South Africa,exact
+Spain,spain,Spain,,Spain,0.8,Spain,exact
+Sweden,sweden,Sweden,,Sweden,0.833,Sweden,exact
+Switzerland,switzerland,Switzerland,,Switzerland,0.909,Switzerland,exact
+Tunisia,tunisia,Tunisia,,Tunisia,0.857,Tunisia,exact
+Türkiye,türkiye,,Turkey,Turkey,0.462,Turkey,alias
+United Kingdom,united kingdom,United Kingdom,,United Kingdom,0.857,United Kingdom,exact
+United States,united states,,United States of America,United Arab Emirates,0.606,United States of America,alias
