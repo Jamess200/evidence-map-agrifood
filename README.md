@@ -40,13 +40,13 @@ evidence-map-agrifood/
 │   ├── index.html
 │   ├── interactive_country_map.html
 │   ├── map_accessible.html
-│   └── .nojekyll
+│   └── style.css
 ├── outputs/                # EDA + diagnostics
 │   ├── eda_overview.csv
 │   ├── name_match_review.csv
-│   └── unmapped_entities.csv
+│   └── unmapped_entities.csv (Only if any)
 ├── scripts/
-│   ├── make_eda.py         # Excel → raw+clean CSVs + long-form EDA
+│   ├── EDA.py         # Excel → raw+clean CSVs + long-form 
 │   └── make_map.py         # Builds map pages (writes to docs/)
 ├── requirements.txt
 ├── LICENSE
@@ -160,13 +160,13 @@ If your workbook contains personal data, keep the repo private or remove sensiti
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Issues and PRs welcome. If you spot a country naming edge case, add it to the alias map and include a minimal failing example.
 
 ---
 
-## 📄 License
+## License
 
 MIT — see `LICENSE`.
 
