@@ -40,11 +40,12 @@ evidence-map-agrifood/
 │   ├── index.html
 │   ├── interactive_country_map.html
 │   ├── map_accessible.html
-│   └── style.css
+│   ├── style.css
+│   └── .nojekyll
 ├── outputs/                # EDA + diagnostics
 │   ├── eda_overview.csv
 │   ├── name_match_review.csv
-│   └── unmapped_entities.csv (Only if any)
+│   └── unmapped_entities.csv # (Only if unmapped exist)
 ├── scripts/
 │   ├── EDA.py         # Excel → raw+clean CSVs + long-form 
 │   └── make_map.py         # Builds map pages (writes to docs/)
@@ -78,7 +79,7 @@ If your file is named exactly `CA23107participant list.xlsx`, the EDA script wil
 
 ### 3) Build clean data + EDA
 ```bash
-python scripts/make_eda.py
+python scripts/EDA.py
 ```
 Outputs:
 - `data/raw/data_raw.csv`
@@ -113,7 +114,7 @@ Outputs:
 
 ```bash
 # Use a specific Excel file and sheet (index or name)
-python scripts/make_eda.py --input data/raw/your_file.xlsx --sheet 0
+python scripts/EDA.py --input data/raw/your_file.xlsx --sheet 0
 
 # Then rebuild map pages
 python scripts/make_map.py
@@ -175,5 +176,4 @@ MIT — see `LICENSE`.
 ## 👋 About & Links
 
 Project by **James Simmill**.  
-- LinkedIn: *(add your link)*  
-- Fiverr: *(add your link)*
+- LinkedIn: *(www.linkedin.com/in/james-simmill-a2459a194)*
