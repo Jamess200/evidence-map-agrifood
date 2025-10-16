@@ -31,6 +31,7 @@ columns_summary,,,,,,,,,,,,,core_group,object,201.0,0.0,2.0,False,,,
 columns_summary,,,,,,,,,,,,,core_group_member_title,object,14.0,187.0,14.0,WG4 Leader,,,
 columns_summary,,,,,,,,,,,,,country,object,201.0,0.0,45.0,Türkiye (TR),,,
 columns_summary,,,,,,,,,,,,,country_clean,object,201.0,0.0,45.0,Türkiye,,,
+columns_summary,,,,,,,,,,,,,itc_countries,object,201.0,0.0,2.0,Yes,,,
 columns_summary,,,,,,,,,,,,,mc_member,object,201.0,0.0,2.0,True,,,
 columns_summary,,,,,,,,,,,,,wg1_setting_the_scene_assessing_the_current_state_of_evidence_synthesis_in_agri_food,object,201.0,0.0,2.0,True,,,
 columns_summary,,,,,,,,,,,,,wg2_improving_competencies_in_evidence_synthesis,object,201.0,0.0,2.0,False,,,
@@ -144,6 +145,8 @@ top_values,,,,,,,,,,,,,country_clean,,,,,,Ireland,2.0,
 top_values,,,,,,,,,,,,,country_clean,,,,,,Algeria,2.0,
 top_values,,,,,,,,,,,,,country_clean,,,,,,Austria,2.0,
 top_values,,,,,,,,,,,,,country_clean,,,,,,Spain,2.0,
+top_values,,,,,,,,,,,,,itc_countries,,,,,,Yes,139.0,
+top_values,,,,,,,,,,,,,itc_countries,,,,,,No,62.0,
 countries_counts,,,,,,,,,,,,,,,,,,,,61.0,Türkiye
 countries_counts,,,,,,,,,,,,,,,,,,,,14.0,Serbia
 countries_counts,,,,,,,,,,,,,,,,,,,,12.0,United Kingdom
