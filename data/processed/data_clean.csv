@@ -149,7 +149,7 @@ France (FR),False,,False,True,True,False,False,False,True,WG1; WG5,France,No,No,
 Lithuania (LT),False,,False,True,True,False,True,True,False,WG1; WG3; WG4,Lithuania,Yes,No,No,Yes,Yes,No,Yes,Yes,No,True
 France (FR),False,,False,True,True,False,True,True,False,WG1; WG3; WG4,France,No,No,No,Yes,Yes,No,Yes,Yes,No,True
 Belgium (BE),False,,False,True,False,False,False,True,False,WG4,Belgium,No,No,No,Yes,No,No,No,Yes,No,True
-France (FR),True,Action Vice Chair (resigning soon),True,True,True,True,True,True,True,WG1; WG2; WG3; WG4; WG5,France,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True
+France (FR),,Action Vice Chair (resigning soon),True,True,True,True,True,True,True,WG1; WG2; WG3; WG4; WG5,France,No,Yes But Resigning,Yes,Yes,Yes,Yes,Yes,Yes,Yes,True
 Türkiye (TR),False,,False,True,True,False,False,True,True,WG1; WG4; WG5,Türkiye,Yes,No,No,Yes,Yes,No,No,Yes,Yes,True
 Italy (IT),False,,False,True,True,True,True,False,False,WG1; WG2; WG3,Italy,No,No,No,Yes,Yes,Yes,Yes,No,No,True
 Germany (DE),False,,True,True,False,False,False,True,False,WG4,Germany,No,No,Yes,Yes,No,No,No,Yes,No,True
