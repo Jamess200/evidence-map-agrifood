@@ -3,7 +3,7 @@ Albania,albania,Albania,,Albania,0.857,Albania,exact
 Algeria,algeria,Algeria,,Algeria,0.857,Algeria,exact
 Austria,austria,Austria,,Austria,0.857,Austria,exact
 Belgium,belgium,Belgium,,Belgium,0.857,Belgium,exact
-Bosnia and Herzegovina,bosnia and herzegovina,Bosnia and Herzegovina,,Bosnia and Herzegovina,0.909,Bosnia and Herzegovina,exact
+Bosnia and Herzegovina,bosnia and herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,0.909,Bosnia and Herzegovina,exact
 Bulgaria,bulgaria,Bulgaria,,Bulgaria,0.875,Bulgaria,exact
 Croatia,croatia,Croatia,,Croatia,0.857,Croatia,exact
 Cyprus,cyprus,Cyprus,,Cyprus,0.833,Cyprus,exact
@@ -26,7 +26,7 @@ Jordan,jordan,Jordan,,Jordan,0.833,Jordan,exact
 Kosovo,kosovo,Kosovo,Kosovo,Kosovo,0.833,Kosovo,exact
 Lithuania,lithuania,Lithuania,,Lithuania,0.889,Lithuania,exact
 Moldova,moldova,Moldova,,Moldova,0.857,Moldova,exact
-Montenegro,montenegro,Montenegro,,Montenegro,0.9,Montenegro,exact
+Montenegro,montenegro,Montenegro,Montenegro,Montenegro,0.9,Montenegro,exact
 Morocco,morocco,Morocco,,Morocco,0.857,Morocco,exact
 Nigeria,nigeria,Nigeria,,Nigeria,0.857,Nigeria,exact
 North Macedonia,north macedonia,North Macedonia,,North Macedonia,0.867,North Macedonia,exact
@@ -34,7 +34,7 @@ Norway,norway,Norway,,Norway,0.833,Norway,exact
 Poland,poland,Poland,,Poland,0.833,Poland,exact
 Portugal,portugal,Portugal,,Portugal,0.875,Portugal,exact
 Romania,romania,Romania,,Romania,0.857,Romania,exact
-Serbia,serbia,,Serbia,Nigeria,0.615,Serbia,alias
+Serbia,serbia,,Republic of Serbia,Nigeria,0.615,Republic of Serbia,alias
 Slovakia,slovakia,Slovakia,,Slovakia,0.875,Slovakia,exact
 South Africa,south africa,South Africa,,South Africa,0.833,South Africa,exact
 Spain,spain,Spain,,Spain,0.8,Spain,exact
