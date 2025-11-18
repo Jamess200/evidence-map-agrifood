@@ -147,12 +147,6 @@ python scripts/make_map.py
 
 ---
 
-## 🔒 Data notes
-
-If your workbook contains personal data, keep the repo private or remove sensitive columns before committing. Output HTML pages are static—ensure they only contain what you intend to publish.
-
----
-
 ## 🗺️ Roadmap (nice-to-haves)
 
 - Add a small UI to edit/extend the alias table from `name_match_review.csv`.
